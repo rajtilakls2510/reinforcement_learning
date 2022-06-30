@@ -13,7 +13,7 @@ q_table = np.zeros(shape=(48, 4))
 def policy(state, explore=0.0):
     action = int(np.argmax(q_table[state]))
     if np.random.random() <= explore:
-        action = int(np.random.randint(low=0, high=1, size=1))
+        action = int(np.random.randint(low=0, high=4, size=1))
     return action
 
 
@@ -38,7 +38,6 @@ for episode in range(NUM_EPISODES):
 
     # For every step of the episode
     while not done:
-
         # Take an action in the environment
         next_state, reward, done, _ = cliffEnv.step(action)
 

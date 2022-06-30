@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 
+
 # Creates cliff walking grid
 def initialize_frame():
     width, height = 600, 200
@@ -32,6 +33,7 @@ def initialize_frame():
     # frame = cv2.putText(img, text="S", org=(49 * 0 + margin_horizontal + 10, 49 * 4 + margin_vertical - 10),
     #                     fontFace=cv2.FONT_HERSHEY_SIMPLEX, fontScale=1, color=(0, 0, 0), thickness=2)
     return frame
+
 
 # puts the agent at a state
 def put_agent(img, state):

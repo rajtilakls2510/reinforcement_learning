@@ -19,7 +19,7 @@ NUM_EPISODES = 500
 def policy(state, explore=0.0):
     action = int(np.argmax(q_table[state]))
     if np.random.random() <= explore:
-        action = int(np.random.randint(low=0, high=1, size=1))
+        action = int(np.random.randint(low=0, high=4, size=1))
     return action
 
 

@@ -4,6 +4,7 @@ import numpy as np
 # Creating the Environment
 cliffEnv = gym.make("CliffWalking-v0")
 
+
 # Handy functions for Visuals
 def initialize_frame():
     width, height = 600, 200
@@ -45,6 +46,7 @@ def put_agent(img, state):
                 fontFace=cv2.FONT_HERSHEY_SIMPLEX, fontScale=1, color=(0, 0, 0), thickness=2)
     return img
 
+
 # Initializing our environment
 done = False
 frame = initialize_frame()
@@ -52,7 +54,6 @@ state = cliffEnv.reset()
 
 # For each step of the episode
 while not done:
-
     # Show the current state of the environment
     frame2 = put_agent(frame.copy(), state)
     cv2.imshow("Cliff Walking", frame2)
