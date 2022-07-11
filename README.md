@@ -16,7 +16,5 @@ We do it in multiple parts, and we also apply our knowledge practically by codin
 
 ### We solve many reinforcement learning problems and here are some previews of the problems that we solve
 
-<img src="https://user-images.githubusercontent.com/53657825/178180364-96cd557e-690b-4d19-ad4c-9b8f0abde39e.gif" width="300" height="100">
-<img src="https://user-images.githubusercontent.com/53657825/178180373-fd35ee6c-5d02-4cdc-bfe7-a85ad6524eea.gif" width="300" height="200">
-<img src="https://user-images.githubusercontent.com/53657825/178180374-287ae378-cea7-4bc3-aecf-766a300f09eb.gif" width="300" height="200">
-<img src="https://user-images.githubusercontent.com/53657825/178180474-cba74be6-9c0b-45b7-88eb-1d04ceb2a6c1.gif" width="300" height="200">
+<img src="https://user-images.githubusercontent.com/53657825/178180364-96cd557e-690b-4d19-ad4c-9b8f0abde39e.gif" width="300" height="100"> <img src="https://user-images.githubusercontent.com/53657825/178180373-fd35ee6c-5d02-4cdc-bfe7-a85ad6524eea.gif" width="300" height="200"> 
+<img src="https://user-images.githubusercontent.com/53657825/178180374-287ae378-cea7-4bc3-aecf-766a300f09eb.gif" width="300" height="200"> <img src="https://user-images.githubusercontent.com/53657825/178180474-cba74be6-9c0b-45b7-88eb-1d04ceb2a6c1.gif" width="300" height="200">
