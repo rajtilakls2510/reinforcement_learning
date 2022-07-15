@@ -12,7 +12,7 @@ We do it in multiple parts, and we also apply our knowledge practically by codin
 - Part 3 : https://github.com/rajtilakls2510/reinforcement_learning/tree/part_3
 - Part 4 : https://github.com/rajtilakls2510/reinforcement_learning/tree/part_4 (Not Uploaded Yet)
 - Part 5 : https://github.com/rajtilakls2510/reinforcement_learning/tree/part_5 (Not Uploaded Yet)
-- Part 6 : Not created yet
+- Part 6 : https://github.com/rajtilakls2510/reinforcement_learning/tree/part_6 (Not Uploaded Yet)
 
 ### We solve many reinforcement learning problems and here are some previews of the problems that we solve
 
