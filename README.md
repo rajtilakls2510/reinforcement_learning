@@ -1,9 +1,9 @@
 # Reinforcement Learning
 
-## Code for Part 5
+## Code for Part 6
 
-In this video, we learned Deep Q-Learning and retrained our CartPole problem with this. We also trained an agent on the Mountain Car Problem.
+In this video, we studies how to create good reward functions and especially, shaped reward functions. We trained a Lunar Lander Agent using DQN.
 
 ##### Training Results
 
-<img src="https://user-images.githubusercontent.com/53657825/178180071-bb173c3a-d510-4af9-8b22-78de2b1ff7d2.gif" width="300" height="200">  <img src="https://user-images.githubusercontent.com/53657825/178180140-2c86cdc4-4153-4d89-9891-8f0af3460955.gif" width="300" height="200">
+<img src="https://user-images.githubusercontent.com/53657825/178180474-cba74be6-9c0b-45b7-88eb-1d04ceb2a6c1.gif" width="300" height="200">
