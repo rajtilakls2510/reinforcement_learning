@@ -10,9 +10,9 @@ We do it in multiple parts, and we also apply our knowledge practically by codin
 #### Our videos are divided into multiple parts and the code for each part is in a different branch:
 - Part 1 and Part 2 have no codes in them
 - Part 3 : https://github.com/rajtilakls2510/reinforcement_learning/tree/part_3
-- Part 4 : https://github.com/rajtilakls2510/reinforcement_learning/tree/part_4 (Not Uploaded Yet)
-- Part 5 : https://github.com/rajtilakls2510/reinforcement_learning/tree/part_5 (Not Uploaded Yet)
-- Part 6 : https://github.com/rajtilakls2510/reinforcement_learning/tree/part_6 (Not Uploaded Yet)
+- Part 4 : https://github.com/rajtilakls2510/reinforcement_learning/tree/part_4
+- Part 5 : https://github.com/rajtilakls2510/reinforcement_learning/tree/part_5
+- Part 6 : https://github.com/rajtilakls2510/reinforcement_learning/tree/part_6
 
 ### We solve many reinforcement learning problems and here are some previews of the problems that we solve
 
